@@ -1,4 +1,4 @@
-import java.util.*;
+
 
 public class IsPrimeNumber {
     static boolean isPrimeNumber(int num) {

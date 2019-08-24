@@ -2,7 +2,6 @@ import java.util.Random;
 
 public class ClassificationRandomWhile {
     public static void main(String[] agrs) {
-        int i = 0;
         Random rand = new Random(); // 实例化Random()
         int num1 = 0;
         while (true) {
@@ -16,7 +15,6 @@ public class ClassificationRandomWhile {
                 System.out.println(" < The previous number");
             }
             num1 = num2;
-            i++;
         }
     }
 }
