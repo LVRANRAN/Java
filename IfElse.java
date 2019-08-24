@@ -1,4 +1,4 @@
-import java.util.*;
+
 
 public class IfElse {
     static int result = 0;

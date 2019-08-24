@@ -1,4 +1,4 @@
-import java.util.*;
+
 
 public class InitializationVerification {
     private static int a;
